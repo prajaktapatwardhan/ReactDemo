@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>hello</h1>
       <h2>First react program</h2>
+      <h3>New commit</h3>
     </div>
   );
 }
